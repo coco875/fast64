@@ -129,7 +129,9 @@ def draw_repo_settings(layout: UILayout, context: Context):
     draw_rdp_world_defaults(col, scene)
 
 
-classes = (SaveRepoSettings, LoadRepoSettings)
+classes = (
+    SaveRepoSettings, 
+    LoadRepoSettings)
 
 
 def repo_settings_operators_register():
