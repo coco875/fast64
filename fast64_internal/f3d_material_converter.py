@@ -38,20 +38,20 @@ def upgradeF3DVersionOneObject(obj, materialDict, f3d_node_tree: bpy.types.NodeT
 
 
 V4PresetName = {
-    "Unlit Texture": "sm64_unlit_texture",
-    "Unlit Texture Cutout": "sm64_unlit_texture_cutout",
-    "Shaded Solid": "sm64_shaded_solid",
-    "Shaded Texture": "sm64_shaded_texture",
-    "Shaded Texture Cutout": "sm64_shaded_texture_cutout",
-    "Shaded Texture Transparent": "sm64_shaded_texture_transparent",
-    "Environment Mapped": "sm64_environment_map",
-    "Decal On Shaded Solid": "sm64_decal",
-    "Vertex Colored Texture": "sm64_vertex_colored_texture",
-    "Fog Shaded Texture": "sm64_fog_shaded_texture",
-    "Fog Shaded Texture Cutout": "sm64_fog_shaded_texture_cutout",
-    "Fog Shaded Texture Transparent": "sm64_fog_shaded_texture_transparent",
-    "Vertex Colored Texture Transparent": "sm64_vertex_colored_texture_transparent",
-    "Shaded Noise": "sm64_shaded_noise",
+"Unlit Texture": "sm64_unlit_texture",
+"Unlit Texture Cutout": "sm64_unlit_texture_cutout",
+"Shaded Solid": "sm64_shaded_solid",
+"Shaded Texture": "sm64_shaded_texture",
+"Shaded Texture Cutout": "sm64_shaded_texture_cutout",
+"Shaded Texture Transparent": "sm64_shaded_texture_transparent",
+"Environment Mapped": "sm64_environment_map",
+"Decal On Shaded Solid": "sm64_decal",
+"Vertex Colored Texture": "sm64_vertex_colored_texture",
+"Fog Shaded Texture": "sm64_fog_shaded_texture",
+"Fog Shaded Texture Cutout": "sm64_fog_shaded_texture_cutout",
+"Fog Shaded Texture Transparent": "sm64_fog_shaded_texture_transparent",
+"Vertex Colored Texture Transparent": "sm64_vertex_colored_texture_transparent",
+"Shaded Noise": "sm64_shaded_noise",
 }
 
 
